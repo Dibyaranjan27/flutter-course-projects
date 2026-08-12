@@ -42,7 +42,7 @@ If you think it turned out cool, feel free to drop a **star ⭐** or **fork it �
   <table>
     <tr>
       <td align="center">
-        <img src="images/mi_card_output.png" alt="App Screen" width="300">
+        <img src="images/amane.jpg" alt="App Screen" width="300">
         <br/>
         <em>App Screen (Mi Card)</em>
       </td>
@@ -61,16 +61,15 @@ If you think it turned out cool, feel free to drop a **star ⭐** or **fork it �
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Learned (Creating Beautiful UI with Flutter for Beginners)
 
 During this part of my development journey, I gained practical experience with the following:
 
-- **Setup & Environment:** Learn to set up a new Flutter project using Android Studio.
-- **Widget Tree Mastery:** Understand the Widget tree and learn to use pre-made Flutter Widgets for user interface design.
-- **Basic UI Components:** Learn to incorporate Image and Text Widgets to create simple user interfaces.
-- **App Styling:** Learn to incorporate App Icons for iOS and Android.
-- **Asset Management:** Learn how to add and load image assets to Flutter projects.
-- **Deployment:** Run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
+- **Hot Reload & Hot Restart:** Use Hot Reload and Hot Restart to quickly refresh the app UI and understand when to use each.
+- **Pubspec.yaml & Assets:** Learning to use the `pubspec.yaml` file to incorporate dependencies, custom assets, and fonts.
+- **Widget Build Method:** An introduction to the Widget `build()` method.
+- **Layout Widgets:** Learning to use layout widgets such as Columns, Rows, Containers, and Cards.
+- **Material Icons:** Incorporating Material icons using the `Icons` class.
 
 ---
 
