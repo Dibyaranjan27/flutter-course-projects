@@ -13,7 +13,6 @@
 
 ## 📖 Table of Contents
 - [The Story Behind This Project](#-the-story-behind-this-project)
-- [Screenshots](#-screenshots)
 - [Key Features](#-key-features)
 - [What I Learned](#-what-i-learned)
 - [Tech Stack](#-tech-stack)
@@ -33,23 +32,6 @@ This project was built as part of the Flutter course, taking a deep dive into **
 It was a fantastic exercise in writing platform-specific code in Flutter, utilizing Dart loops to dynamically generate UI elements, and bringing native iOS styling to a cross-platform app.
 
 If you think it turned out cool, feel free to drop a **star ⭐** or **fork it 🍴**!
-
----
-
-## 🖥️ Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- Add your screenshot to an 'images' folder and update this path! -->
-        <img src="images/bitcoin_ticker.png" alt="App Screen" width="300">
-        <br/>
-        <em>App Screen (Bitcoin Ticker)</em>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
