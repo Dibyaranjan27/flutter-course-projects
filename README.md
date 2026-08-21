@@ -2,94 +2,73 @@
 
 Welcome to my **Flutter Learning Projects** repository! This collection features 10 projects built during **The Complete Flutter Development Bootcamp** by Angela Yu from The London App Brewery. As a B.Tech CSE student, these projects reflect my journey in mastering Flutter through hands-on apps, from simple image based app to task managers and real-time chat systems.  
 
- <!--## 📌 Projects Included  
-
-🔹 **Student Management System** – A console-based system to manage student records using file handling.  
-🔹 **Bank Management System** – A simple banking system for deposits, withdrawals, and balance checking.  
-🔹 **Calculator** – A command-line calculator supporting basic arithmetic operations.  
-
----
-
-## 🛠 Requirements  
-
-To run these projects, you need:  
-- A **C compiler** (GCC, Clang, MinGW, Turbo C, etc.)  
-- A **command-line terminal** (Windows Command Prompt, Linux Terminal, macOS Terminal)  
-
-For Windows: Install **MinGW** and add it to your system PATH.  
-For Linux/macOS: **GCC** is usually pre-installed, or install it using:  
-```bash
-sudo apt install gcc   # Debian/Ubuntu  
-brew install gcc       # macOS (Homebrew)
-```
----
-
-## 🚀 How to Clone & Run a Project
-
-1️⃣ Clone the Entire Repository
-```bash
-git clone https://github.com/Dibyaranjan27/c-programming-projects.git
-cd c-programming-projects
-```
-2️⃣ Navigate to the Desired Project Folder
-```bash
-cd student-management-system  # Example project
-```
-3️⃣ Compile the Program
-```bash
-gcc main.c -o output_file_name
-```
-4️⃣ Run the Program
-```bash
-./output_file_name   # Linux/macOS  
-output_file_name.exe # Windows  
-```
----
-
-## 📥 Download a Specific Project
-If you want to download only one project, follow these steps:  
-
-🔹 Using GitHub UI
-1. Go to the repository: GitHub Repository Link
-2. Navigate to the specific project folder.
-3. Click on the "Download ZIP" button.
-4. Extract and follow the compilation steps above.
-
-🔹 Using Git Commands
-If you prefer downloading only one folder using Git:
-```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/Dibyaranjan27/c-programming-projects.git
-cd c-programming-projects
-git sparse-checkout set student-management-system
-```
-
-> 📌 Each project has its own folder, including:
-> - Source code (.c, .h)
-> - A project-specific README.md with setup instructions
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</div>
 
 ---
 
-## 📜 License
-This repository is licensed under the MIT License, allowing open-source usage and modification.
+
+## 📌 Projects Directory
+
+Here is a list of the projects completed during the bootcamp, ordered by progression:
+
+| # | Project | Core Concepts Learned |
+|---|---------|-----------------------|
+| 1 | [**I Am Rich**](./i_am_rich) | Scaffold, App Icons, Image Widgets, Deployment |
+| 2 | [**I Am Poor**](./im_am_poor) | UI Challenge, Basic Widget Trees |
+| 3 | [**Mi Card**](./mi_card_flutter) | Columns, Rows, Containers, Custom Fonts, Material Icons |
+| 4 | [**Dicee**](./dicee_flutter) | Stateful Widgets, Callbacks, `setState()`, Dart Variables |
+| 5 | [**Magic 8 Ball**](./magic_8_ball) | Stateful Widget Challenge, Randomization |
+| 6 | [**Xylophone**](./xylophone_flutter) | Flutter Packages, Audio Playback, Dart Functions & Arrow Syntax |
+| 7 | [**Quizzler**](./quizzler_flutter) | Object-Oriented Programming (OOP), Classes, Constructors, Lists |
+| 8 | [**Destini**](./destini_challenge_flutter) | OOP Challenge, Storyboarding |
+| 9 | [**BMI Calculator**](./bmi_calculator_flutter) | Multi-Screen Routing, Custom Themes, Enums, Ternary Operators |
+| 10 | [**Clima**](./clima_flutter) | Asynchronous Dart (`async`/`await`), HTTP Networking, JSON Parsing, Location Services |
+| 11 | [**Bitcoin Ticker**](./bitcoin_ticker_flutter) | Platform-Aware UI, Cupertino Widgets, Dart Loops |
+| 12 | [**Flash Chat**](./Flash-Chat-Flutter-Complete-master) | Firebase Auth, Cloud Firestore, Real-Time Streams, Hero Animations |
+| 13 | [**Todoey**](./todoey_flutter) | State Management, `Provider` Package, Lifting State Up, Declarative Architecture |
 
 ---
 
-## 🤝 Contributing
+## 🛠️ How to Clone & Run a Project
 
-If you have a new C project idea or want to improve an existing one, feel free to:
+**1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/Dibyaranjan27/flutter-course-projects.git
+cd flutter-course-projects
+```
 
-1. Fork this repository
-2. Add your project inside the appropriate folder
-3. Submit a pull request (PR) 🚀
+**2️⃣ Navigate to a Project Folder**
+```bash
+cd clima_flutter
+```
+
+**3️⃣ Fetch Dependencies & Run**
+```bash
+flutter pub get
+flutter run
+```
+*(Ensure you have a device connected or an emulator running!)*
 
 ---
 
 ## ⭐ Acknowledgments
 
+Huge thanks to **Angela Yu** and **The London App Brewery** for an incredible, comprehensive introduction to Flutter and Dart!
+
 If you find this repository helpful, consider starring ⭐ it on GitHub!
 
 ---
--->
+
+## 📜 License
+
+This repository is licensed under the MIT License, allowing open-source usage and modification.
+
+---
+
 ## 💡 Author
 Dibyaranjan Maharana  
 [GitHub](https://github.com/Dibyaranjan27)  | [LinkedIn](https://www.linkedin.com/in/dibyaranjan-maharana-1228012b2/) 
